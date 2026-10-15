@@ -1,0 +1,8 @@
+../Core/Src/display.c:15:6:DISPLAY_Init	16	static
+../Core/Src/display.c:29:6:DISPLAY_Clear	8	static
+../Core/Src/display.c:35:6:DISPLAY_Write_String	24	static
+../Core/Src/display.c:44:6:DISPLAY_Write_No_Clear	24	static
+../Core/Src/display.c:52:6:DISPLAY_Draw_Page	24	static
+../Core/Src/display.c:62:6:DISPLAY_Three_Line_Page	48	static
+../Core/Src/display.c:75:6:DISPLAY_Four_Line_Page	48	static
+../Core/Src/display.c:88:13:DISPLAY_Show_Test_Page	40	static

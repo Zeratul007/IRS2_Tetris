@@ -1,0 +1,6 @@
+../Core/Src/7seg.c:85:13:Segments_Off	8	static
+../Core/Src/7seg.c:101:13:SetSegments	16	static
+../Core/Src/7seg.c:131:6:SevenSeg_Init	8	static
+../Core/Src/7seg.c:148:6:SevenSeg_DisplayDigit	16	static
+../Core/Src/7seg.c:182:6:SevenSeg_DisplayNumber	24	static
+../Core/Src/7seg.c:208:6:SevenSeg_Clear	8	static
